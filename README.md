@@ -10,7 +10,7 @@ This is a simple Chip-8 emulator implemented in Rust. The Chip-8 is an interpret
 
 2. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/chip8-emulator-rust.git
+    git clone https://github.com/calalalizade/Chip8-rust
     cd chip8-emulator-rust
     ```
 
