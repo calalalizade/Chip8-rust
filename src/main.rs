@@ -10,7 +10,7 @@ const WINDOW_HEIGHT: usize = 32;
 fn main() {
     let mut chip8 = Chip8::new();
 
-    chip8.load_rom("ibm.ch8");
+    chip8.load_rom("roms/ibm.ch8");
 
     let mut window = Window::new("CHIP8", WINDOW_WIDTH, WINDOW_HEIGHT, WindowOptions {
         scale: minifb::Scale::X8,
