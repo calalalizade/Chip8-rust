@@ -23,7 +23,7 @@ This is a simple Chip-8 emulator implemented in Rust. The Chip-8 is an interpret
     
 ## Controllers
 
-The CHIP-8 system originally used a 16-key hexadecimal keypad (0-F). In the emulator, we map these keys to a modern keyboard layout for player input. The default key mapping is as follows:
+The CHIP-8 system originally used a 16-key hexadecimal keypad (0-F). In the emulator, I map these keys to a modern keyboard layout for player input. The default key mapping is as follows:
 
 | HEX Key | Keyboard Key |
 | ------- | ------------ |
