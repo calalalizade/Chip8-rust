@@ -22,8 +22,8 @@ This is a simple Chip-8 emulator implemented in Rust. The Chip-8 is an interpret
 
 ## Dependencies
 
-- [rand](https://crates.io/crates/rand) = "0.8.4"
-- [minifb](https://crates.io/crates/minifb) = "0.25"
+- [rand](https://crates.io/crates/rand)
+- [minifb](https://crates.io/crates/minifb)
 
 ## Resources
 
