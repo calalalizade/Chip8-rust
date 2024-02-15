@@ -20,6 +20,11 @@ This is a simple Chip-8 emulator implemented in Rust. The Chip-8 is an interpret
     cargo run --release
     ```
 
+## Dependencies
+
+- [rand](https://crates.io/crates/rand) = "0.8.4"
+- [minifb](https://crates.io/crates/minifb) = "0.25"
+
 ## Resources
 
 - [Chip-8 Wikipedia](https://en.wikipedia.org/wiki/CHIP-8)
